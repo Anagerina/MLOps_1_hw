@@ -49,3 +49,5 @@ stages:
       - models/model.pkl
       - params.yaml
       - metrics/metrics.json
+    params:
+      - accuracy_min
